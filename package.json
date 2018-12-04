@@ -1,0 +1,15 @@
+{
+  "name": "zalo-social-dialog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "daofresh",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^6.2.0"
+  }
+}
